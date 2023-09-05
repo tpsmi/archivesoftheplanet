@@ -16,3 +16,5 @@ conda create --name archives --file requirements.txt
 # Activate the Conda environment
 conda activate archives
 ```
+# Cite
+If you want, you can cite the article for which this code was written
