@@ -3,6 +3,7 @@ Code belonging to the paper/article Revisiting the Kahn Collection: Multimodal M
 
 # Installation and setup
 
+```
 # Clone this repository
 git clone https://github.com/tpsmi/archivesoftheplanet
 
@@ -14,3 +15,4 @@ conda create --name archives --file requirements.txt
 
 # Activate the Conda environment
 conda activate archives
+```
