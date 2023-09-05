@@ -2,7 +2,7 @@
 Code belonging to the paper/article Revisiting the Kahn Collection: Multimodal Machine Learning and Visual Patterns in the Archives de la Planète, 1909-1931
 
 # Installation and setup
-To clone and run this application, you'll need Git, Python, and Anaconda (or Miniconda) installed on your computer. You will also need to install some Python packages to run this application. From your command line, run:
+Please note that CLIP will not run on every system. I used a Macbook M1. To clone and run this application, you'll need Git, Python, and Anaconda (or Miniconda) installed on your computer. You will also need to install some Python packages to run this application. From your command line, run:
 ```
 # Clone this repository
 git clone https://github.com/tpsmi/archivesoftheplanet
