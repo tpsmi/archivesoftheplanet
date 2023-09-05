@@ -11,10 +11,13 @@ git clone https://github.com/tpsmi/archivesoftheplanet
 cd archivesoftheplanet
 
 # Create a dedicated Conda environment and install dependencies
-conda create --name archives --file requirements.txt
+conda env create -f environment.yml --name planetarchives
 
 # Activate the Conda environment
-conda activate archives
+conda planet archives
 ```
+#Use
+Please use the notebooks in the order 1 to 5. The first notebooks downloads the autochromes of the Kahn collection, the second crops them, the third uses the metadata for spatial analysis, the fourth analyses the role of photographers (not in the article), and the fifth uses CLIP to cluster the images.
+
 # Cite
 If you want, you can cite the article for which this code was written
