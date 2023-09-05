@@ -20,4 +20,4 @@ conda planet archives
 Please use the notebooks in the order 1 to 5. The first notebooks downloads the autochromes of the Kahn collection, the second crops them, the third uses the metadata for spatial analysis, the fourth analyses the role of photographers (not in the article), and the fifth uses CLIP to cluster the images.
 
 # Cite
-If you want, you can cite the article for which this code was written
+If you want, you can cite the article for which this code was written or this repository via the DOI: 10.5281/zenodo.8318444  
